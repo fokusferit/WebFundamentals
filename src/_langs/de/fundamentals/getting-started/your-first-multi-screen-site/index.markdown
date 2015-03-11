@@ -22,7 +22,7 @@ Das Erstellen von Websites für verschiedene Geräte mit unterschiedlichem Funkt
 
 Vollständig responsive Websites zu erstellen ist nicht so schwer, wie Sie vielleicht denken. Dieser Leitfaden führt Sie durch die ersten Schritte.  Wir haben den Einstieg in zwei einfache Schritte unterteilt:
 
-1. die Informationsarchitektur, oft als IA bezeichnet, und die Struktur der Seite definieren und 2. Designelemente hinzufügen, um sie auf allen Geräten responsiv und ansprechend zu machen.
+1. die Informationsarchitektur, oft als IA bezeichnet, und die Struktur der Seite definiert und 2. Designelemente hinzufügen, um sie auf allen Geräten responsiv und ansprechend zu machen.
 
 {% endwrap %}
 
